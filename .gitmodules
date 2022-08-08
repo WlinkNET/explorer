@@ -1,9 +1,9 @@
 [submodule "harvester"]
 	path = harvester
-	url = https://github.com/polkascan/harvester.git
+	url = git@github.com:3Dpass/harvester.git
 [submodule "explorer-api"]
 	path = explorer-api
-	url = https://github.com/polkascan/explorer-api.git
+	url = git@github.com:3Dpass/explorer-api.git
 [submodule "explorer-ui"]
 	path = explorer-ui
-	url = https://github.com/polkascan/explorer-ui.git
+	url = git@github.com:3Dpass/explorer-ui.git
